@@ -46,7 +46,11 @@
   <a href="mailto:narayankachhi43@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" />
   </a>
+   <a href="https://instagram.com/nk_03_01" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
 </p>
+
 
 ---
 
