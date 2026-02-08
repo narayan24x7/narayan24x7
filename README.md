@@ -9,9 +9,7 @@
 ---
 
 ### 🔭 I’m currently working on
-- 🚀 **CS50-NK** – Re-implementing Harvard’s CS50 in HTML/CSS/JS  
-- 🌐 **React-Internship** – Building component-driven UIs  
-- 📱 **Flutter-Internship** – A cross-platform, responsive calculator app
+- 🚀 **Rust Project** – End to End File Sharing System
 
 ---
 
@@ -57,17 +55,17 @@
   <summary>📌 Pinned Projects</summary>
   <ul>
     <li>
-      <strong><a href="https://github.com/narayan24x7/CS50-NK">CS50-NK</a></strong>  
-      Rebuilt Harvard’s CS50 problem set in pure HTML, CSS & JavaScript.
+      <strong><a href="https://github.com/narayan24x7/Placeifiy-AI">Placeifiy-AI</a></strong>  
+      AI‑powered mock interview platform built with Next.js 14 (App Router), Clerk authentication, Drizzle ORM on Neon Postgres, and Google Gemini 1.5 for question generation and feedback.
     </li>
     <li>
-      <strong><a href="https://github.com/narayan24x7/React-Internship">React-Internship</a></strong>  
-      Hands‑on React components, hooks & state management.
-    </li>
+      <strong><a href="https://github.com/narayan24x7/cap_pro">Kaggle Capstone Project</a></strong>  
+      EcoSight: Gemini Vision Multi-Agent Waste Sorting System
+    </li
     <li>
       <strong><a href="https://github.com/narayan24x7/Flutter-Internship">Flutter-Internship</a></strong>  
       Responsive, cross‑platform calculator app with theming.
-    </li>
+    </li
   </ul>
 </details>
 
