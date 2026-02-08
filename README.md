@@ -28,9 +28,8 @@
 ---
 
 ### 📈 GitHub Stats
-<p align="center">
-  <img height="150" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=narayan24x7&show_icons=true&theme=tokyonight&hide_rank=true" />
-  <img height="150" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=narayan24x7&layout=compact&theme=tokyonight" />
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=narayan24x7&show_icons=true&theme=tokyonight&cache_seconds=86400" />
 </p>
 
 ---
