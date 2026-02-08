@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=narayan24x7&color=blue" alt="Profile views" />
   <h1 align="center">👋 Hi, I’m Narayandas Kachhi</h1>
   <p align="center">
-    A passionate Web & Mobile developer learning new technologies every day.
+    A passionate about learning new technologies every day
   </p>
 </p>
 
