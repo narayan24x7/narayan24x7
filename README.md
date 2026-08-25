@@ -26,14 +26,6 @@
 </p>
 
 ---
-
-### 📈 GitHub Stats
-<p align="center">
-  <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api?username=narayan24x7&show_icons=true&theme=tokyonight" />
-  <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=narayan24x7&layout=compact&theme=tokyonight" />
-</p>
-
-
 ---
 
 ### 💬 Get In Touch
