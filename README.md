@@ -210,32 +210,11 @@ Agentic AI platform designed for intelligent franchise management and performanc
 
 ---
 
-### 🛒 Fashion World
-
-Full-stack e-commerce platform.
-
-**Tech Stack:**  
-`MongoDB` `Express.js` `React` `Node.js`
-
-Includes:
-
-- User authentication
-- Product management
-- Shopping experience
-- Payments
-- Admin functionality
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=narayan24x7&show_icons=true&theme=github_dark&hide_border=true" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=narayan24x7&layout=compact&theme=github_dark&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=narayan24x7&theme=github-dark-blue&hide_border=true" />
 </p>
 
 ---
